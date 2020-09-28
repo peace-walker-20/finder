@@ -15,7 +15,7 @@
 
 ## Data File Download
 **This code and data is available only for SIGMOD reviewers. We prohibit the use of such data and code for any other purpose.
-Since data in the paper involves real WiFi data of our organization, we cannot provide the entire real dataset in the public, due to user privacy. Thus, we are providing 100 sample rows, which contain fake access-point names and anonymized device-ids.**
+Since data in the paper involves real WiFi data of our organization, we cannot provide the entire real dataset in the public, due to user privacy. Thus, we are providing 1,000 sample rows, which contain fake access-point names and anonymized device-ids.**
 
 Please download the (anonymized) data from:  https://drive.google.com/file/d/1kHsAa4F0Tiw4K3XPhqw_OsdAulaPRIyj/view?usp=sharing
 
